@@ -1,1 +1,1 @@
-"# Database Systems Coursework" 
+# Database Systems Coursework
